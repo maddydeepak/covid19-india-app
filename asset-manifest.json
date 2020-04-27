@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/covid19-india-app/static/css/main.a55e6dae.chunk.css",
-    "main.js": "/covid19-india-app/static/js/main.23210314.chunk.js",
-    "main.js.map": "/covid19-india-app/static/js/main.23210314.chunk.js.map",
+    "main.css": "/covid19-india-app/static/css/main.0b1c6dff.chunk.css",
+    "main.js": "/covid19-india-app/static/js/main.e8eb6493.chunk.js",
+    "main.js.map": "/covid19-india-app/static/js/main.e8eb6493.chunk.js.map",
     "runtime-main.js": "/covid19-india-app/static/js/runtime-main.853fe636.js",
     "runtime-main.js.map": "/covid19-india-app/static/js/runtime-main.853fe636.js.map",
     "static/css/2.c294be47.chunk.css": "/covid19-india-app/static/css/2.c294be47.chunk.css",
-    "static/js/2.8a9799d0.chunk.js": "/covid19-india-app/static/js/2.8a9799d0.chunk.js",
-    "static/js/2.8a9799d0.chunk.js.map": "/covid19-india-app/static/js/2.8a9799d0.chunk.js.map",
+    "static/js/2.c89cc1d3.chunk.js": "/covid19-india-app/static/js/2.c89cc1d3.chunk.js",
+    "static/js/2.c89cc1d3.chunk.js.map": "/covid19-india-app/static/js/2.c89cc1d3.chunk.js.map",
     "index.html": "/covid19-india-app/index.html",
-    "precache-manifest.fde4f02eb221bdadab398460982c7b9c.js": "/covid19-india-app/precache-manifest.fde4f02eb221bdadab398460982c7b9c.js",
+    "precache-manifest.bd211e536082b0fe195608ada66803e7.js": "/covid19-india-app/precache-manifest.bd211e536082b0fe195608ada66803e7.js",
     "service-worker.js": "/covid19-india-app/service-worker.js",
     "static/css/2.c294be47.chunk.css.map": "/covid19-india-app/static/css/2.c294be47.chunk.css.map",
-    "static/css/main.a55e6dae.chunk.css.map": "/covid19-india-app/static/css/main.a55e6dae.chunk.css.map",
-    "static/js/2.8a9799d0.chunk.js.LICENSE.txt": "/covid19-india-app/static/js/2.8a9799d0.chunk.js.LICENSE.txt",
+    "static/css/main.0b1c6dff.chunk.css.map": "/covid19-india-app/static/css/main.0b1c6dff.chunk.css.map",
+    "static/js/2.c89cc1d3.chunk.js.LICENSE.txt": "/covid19-india-app/static/js/2.c89cc1d3.chunk.js.LICENSE.txt",
     "static/media/setu_1.jpg": "/covid19-india-app/static/media/setu_1.188031a1.jpg",
     "static/media/setu_2.jpg": "/covid19-india-app/static/media/setu_2.0b18dee2.jpg",
     "static/media/setu_3.jpg": "/covid19-india-app/static/media/setu_3.99764678.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.853fe636.js",
     "static/css/2.c294be47.chunk.css",
-    "static/js/2.8a9799d0.chunk.js",
-    "static/css/main.a55e6dae.chunk.css",
-    "static/js/main.23210314.chunk.js"
+    "static/js/2.c89cc1d3.chunk.js",
+    "static/css/main.0b1c6dff.chunk.css",
+    "static/js/main.e8eb6493.chunk.js"
   ]
 }
